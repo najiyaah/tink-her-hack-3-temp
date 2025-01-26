@@ -1,4 +1,4 @@
-# [Project Name] 🎯
+# [Pawsome Pals] 🎯
 
 
 ## Basic Details
@@ -6,7 +6,7 @@
 
 
 ### Team Members
-- Member 1: [Name] - [College]
+- Member 1: [Name] - [Najiya P M]
 - Member 2: [Name] - [College]
 - Member 3: [Name] - [College]
 
