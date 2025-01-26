@@ -6,7 +6,7 @@
 
 
 ### Team Members
-- Member 1: [Name] - [Najiya P M]
+- Member 1: [Najiya P M] - [SNGCE]
 - Member 2: [Name] - [College]
 - Member 3: [Name] - [College]
 
