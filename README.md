@@ -14,7 +14,7 @@
 [mention your project hosted project link here]
 
 ### Project Description
-[2-3 lines about what your project does]
+[for pet lovers to connect adoptable pets to loving owners by promoting responsibility, animal welfare etc..]
 
 ### The Problem statement
 [What ridiculous problem are you solving?]
@@ -25,7 +25,7 @@
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
+- [html]
 - [Frameworks used]
 - [Libraries used]
 - [Tools used]
